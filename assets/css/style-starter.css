@@ -15176,7 +15176,7 @@ span.title-small {
 .person-img img {
   display: block;
   position: relative;
-  width: 100%;
+  width: 75%;
   background-color: var(--bg-color);
   border-radius: 50%;
   border: 2px solid var(--bg-color);
